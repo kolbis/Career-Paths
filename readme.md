@@ -14,19 +14,19 @@ As leaders, we want each of the engineers to grow and when one does, it is a cau
 # Growth Factors
 We are looking into 4 different areas of growth:
 
-### Execution
+### 1. Execution
 How well is the engineer executes his tasks.  
 As the engineer grows, it is expected that the execution level will increase. Handle issues faster, move with ease, monitor his work, etc. 
 
-### Technology Proficiency
+### 2. Technology Proficiency
 How does the engineer progress with technology skills and knowledge.
 
-### Impact of Team, Impact on R&D, Impact on Organization
+### 3. Impact of Team, Impact on R&D, Impact on Organization
 
 What impact does the engineer has on the team, R&D and the organization. As the engineer grows, it is expected to see an increasing impact.  
 Some examples: review PRs, Mentoring, Assisting solving escalation, knowledge sharing etc.
 
-### Culture 
+### 4. Culture 
 Does the engineer share same culture attributes and values with us.
 
 # Independent Contributor VS Engineering Manager
