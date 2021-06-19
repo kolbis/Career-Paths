@@ -1,7 +1,8 @@
 # **Software Engineers**
 This page defines the professional career paths (ladder) for software engineers.
 
-![](Aspose.Words.272839cd-26c4-47bc-abfb-5a29a604cd1a.001.png) 
+ ![image](https://user-images.githubusercontent.com/13493085/122630966-57381400-d0d0-11eb-85cd-4364f6b0db83.png)
+
 # **Overview**
 **Levels**: Every software engineer employee has a level, which describes the scope, complexity, and impact of their role and factors into compensation. When a new developer joins theLotter, we evaluate his abilities and try to classify him based on the interview process and his experience. We understand this may not reflect the actual capabilities, so on his first months we will evaluate him and adapt as needed.
 
