@@ -1,44 +1,12 @@
-# **Software Engineers**
+# Software Engineers
 This page defines the professional career paths (ladder) for software engineers. It represents the way I have decided to build it per our organization, taking into considerations the size of the engineering team, the scale, the skills etc.
-
-
-# **Overview**
-### **Levels**: 
+ 
 Every software engineer employee has a level, which describes the scope, complexity, and impact of their role and factors into compensation. When a new developer joins, we evaluate his abilities and try to classify him based on the interview process and his experience. We understand this may not reflect the actual capabilities, so on his first months we will evaluate him and adapt as needed.
 
-Each level builds on the criteria from the preceding level. So for example, an L4 must also meet all the criteria for an L3.
-
-The levels described here are a **subjective** and intentionally do not reflect market concepts such as Junior developer, mid developer or Senior developer.
-
-### **Years of experience:**  
-has a contribution to the classification, but do not guaranty a correlation. You may be very experience developer, with 7 years experience which will be L3, BUT you can also be 3 years developer which is L3. 
-
-We do not have strict minimum requirements for years of experience at any given level. We evaluate scope of responsibility and impact, and we never want to fail to recognize high performance due to a test like years of experience.
-
-The rules that guide us are impact and value. 
-*"are you able to perform the level responsibilities"?!?*
-
-### **Two Tracks**: 
-Engineers and Engineering Managers are on two distinct career tracks. This ensures that an engineer can grow in their career and take on more responsibility without having to become a manager. While there are some overlapping responsibilities between the roles, the skills and motivations necessary to be effective vary. We want engineers to consider becoming managers if they are interested in the core responsibilities of people management; if they aren’t, we provide a path to take on larger scope and demonstrate leadership as an individual contributor. This helps ensure we don’t create an incentive to change roles for the wrong reasons. Engineers and managers at the same level will have comparable scope and impact on the business.
-
-**Becoming a manager is not a promotion**: As discussed in more detail below, we define a promotion as moving up a level. When an engineer first becomes a manager, they remain in the same level and move laterally to the engineering management track. Again, we don’t want to incentivize becoming a manager solely for career advancement.
-
-### **Growth Factors**:
-We are looking into 4 different areas of growth:
-- Execution - how well is the engineer executes his tasks. As the engineer grows, it is expected that the execution level will increase. Handle issues faster, move with ease, monitor his work, etc. 
-- Technology Proficiency - how does the engineer progress with technology skills and knowledge.
-- Impact of Team, Impact on R&D, Impact on Organization - what impact does the engineer has on the team, R&D and the organization. As the engineer grows, it is expected to see an increasing impact. Some examples: review PRs, Mentoring, Assisting solving escalation, knowledge sharing etc.
-- Culture - Does the engineer shares same culture attributes and values with us.
-
 ```
-
 IC is in-depended contributor
-
 EM is engineering manager
-
 ```
-
-Engineers and Engineering Managers can exist at the same Square Level with different job criteria. Becoming an EM is not a promotion—it's a different role. Some criteria are shared between ICs and EMs at the same level.
 
 Software Engineers begin at L1.  
 Engineering Managers begin at L4.
@@ -46,15 +14,17 @@ Engineering Managers begin at L4.
 ![image](https://user-images.githubusercontent.com/13493085/122646808-c7bf4f00-d129-11eb-9357-3ef529f0968a.png)
 
 -----
-# **L1 IC - Software Engineer**
+# L1 IC - Software Engineer
 
 **Usually referred as Junior Engineer**
 
-### **Scope & Impact**
+### Scope & Impact
 As a L1 developer, you’re at the start of your career. You have a reasonable understanding of core engineering concepts and are focused on expanding that understanding and growing as an engineer. You have a basic understanding of the team’s tools and processes and a broad introduction to engineering best practices and productivity skills. You have an appreciation and understanding of software engineering techniques like testing, source control and agile planning and are focused on learning more about these domains.
-### **Typical Experience**
+
+### Typical Experience
 Engineers typically acquire the skills, knowledge, and experience necessary to meet the expectations of this level by earning a related Bachelor's degree. Usually developers with under 0-2 year of experience will be at that level. in some case it is person’s first full-time engineering job.
-### **Responsibility & Growth**
+
+### Responsibility & Growth
 
 |**Responsibility**|**Growth Behaviors**|
 | :-: | :-: |
@@ -66,18 +36,20 @@ Engineers typically acquire the skills, knowledge, and experience necessary to m
 |Business / Domain Knowledge|- You gain knowledge on the mission you are allocated and you find your way around it when you need to handle bugs and stories|
 |Culture|<p>- Takes responsibility for their personal development, has a growth mindset</p><p>- Good communicator</p><p>- Taking responsibility of things you build</p>|
 -----
-# **L2 IC - Software Engineer**
+# L2 IC - Software Engineer
 
 **Usually referred as mid level engineer**
 
-### **Scope & Impact**
+### Scope & Impact
 As a L2 developer you are contributor! you understand of core software concepts such as code that performs at scale, resiliency, caching, databases, SOLID, consideration for web development and more.
 You are growing as a developer, learning the team's tools and current processes, and developing productivity skills.
 You keep understanding the team's domains and responsibilities.
 You aim to increase your capacity and value and improve yourself as a technical contributor.
-### **Typical Experience**
+
+### Typical Experience**
 Engineers and managers typically acquire the skills, knowledge, and experience necessary to meet the expectations of this level with a relevant Bachelor’s degree 2+ years of relevant industry experience.
-### **Responsibility & Growth**
+
+### Responsibility & Growth
 
 |**Responsibility**|**Growth Behaviors**|
 | :-: | :-: |
@@ -89,17 +61,19 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 |Business / Domain Knowledge|- You have a very good understanding the team's domains and responsibilities and can quickly gets your feet on any aspect related to it.|
 |Culture|<p>- Good communicator</p><p>- Taking ownership and responsibility of things you build</p><p>- You keep on sharing the company values and gain more responsibilities and trust.</p>|
 -----
-# **L3 IC - Software Engineer** 
+# L3 IC - Software Engineer 
 
 **Usually referred to experienced engineer**
 
-### **Scope & Impact**
+### Scope & Impact
 As a L3 developer, you are a solid contributor! you display a solid understanding of core software concepts such as code that performs at scale, resiliency, caching, databases, SOLID, consideration for web development and more. You are able to handle different technologies and you are productive.
 You understand our infrastructure and how you can use it to leverage your requirements.
 You also have a strong background in engineering best-practices like testing, source control, and agile planning and estimations.
-### **Typical Experience**
+
+### Typical Experience
 Engineers and managers typically acquire the skills, knowledge, and experience necessary to meet the expectations of this level with a relevant Bachelor’s degree and 5+ years of relevant industry experience.
-### **Responsibility & Growth**
+
+### Responsibility & Growth
 
 |**Responsibility**|**Growth Behaviors**|
 | :-: | :-: |
@@ -111,17 +85,19 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 |Business / Domain Knowledge|Same as L2|
 |Culture|<p>- You are not scare and move with confidence</p><p>- You are able to take small risks</p><p>- You feel accountable for the mission </p>|
 -----
-# **L4 IC - Software Engineer** 
+# L4 IC - Software Engineer
 
 **Usually referred to senior engineer**
 
-### **Scope & Impact**
+### Scope & Impact
 As a L4 developer strong independent contributor! you display a solid understanding of core software concepts such as code that performs at scale, resiliency, caching, databases, SOLID, consideration for web development and more. You are able to handle different technologies and you are productive.
 You understand our infrastructure and how you can use it to leverage your requirements.
 You also have a strong background in engineering best-practices like testing, source control, and agile planning and estimations.
-### **Typical Experience**
+
+### Typical Experience
 Engineers and managers typically acquire the skills, knowledge, and experience necessary to meet the expectations of this level with a relevant Bachelor’s degree and 7+ years of relevant industry experience.
-### **Responsibility & Growth**
+
+### Responsibility & Growth
 
 |**Responsibility**|**Growth Behaviors**|
 | :-: | :-: |
@@ -132,11 +108,11 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 |Leadership & Collaboration - You and the company|N/A|
 |Business / Domain Knowledge|- You have a very good understanding the team's domains and responsibilities and can quickly gets your feet on any aspect related to it.|
 |Culture|<p>- Team Player</p><p>- You focus on Value and impact you produce.</p><p>- Taking responsibility of things you and the team build</p><p>- Mindful and empathetic in their communication – strives to understand context and assumes best intent from others</p><p>- Handles change with maturity, assumes best intent in others</p><p>- Displays a strong sense of ownership within the domains</p><p>- Communicates the status of their work proactively; stakeholders aren’t left guessing what’s happening</p>|
-# **L4 EM - Software Engineer** 
+# L4 EM - Software Engineer
 
 **Usually referred to team leader**
 
-### **Scope & Impact**
+### Scope & Impact
 As a Team Lead:
 
 - You are allocated with a chapter (technology proficiency)
@@ -147,9 +123,11 @@ You have project management skills and you are comfortable with management pract
 You track the team's efficiency and quality of work and regularly assist in adjusting processes and timelines to ensure that they’re meeting expectations.
 You find ways to keep your team motivated and you make sure that technically the team is aligned with the missions, culture and practices.
 You produce the high level design for the team and participating with future team feature plannings.
-### **Typical Experience**
+
+### Typical Experience
 Engineers and managers typically acquire the skills, knowledge, and experience necessary to meet the expectations of this level with a relevant Bachelor’s degree and 7+ years of relevant industry experience.
-### **Responsibility & Growth**
+
+### Responsibility & Growth
 
 |**Responsibility**|**Growth Behaviors**|
 | :-: | :-: |
@@ -161,19 +139,21 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 |Business / Domain Knowledge|- Very strong domain / mission / application knowledge|
 |Culture|<p>- You make sure all team members are aligned with the culture and values. You encourage the team to gain responsibility and trust.</p><p>- You derive your team to be communicative and focus on value</p><p>- Coaches towards mindful communication</p><p>- Your team is accountable </p><p>- Everyone loves working with you</p><p>- Lead company culture.</p>|
 -----
-# **L5 IC - Software Engineer** 
+# L5 IC - Software Engineer 
 
 **Usually referred to tech leader**
 
-### **Scope & Impact**
+### Scope & Impact
 You’re at a level where you’re seen as extremely reliable and a master of at your domains.
 You can own your independent any level of feature or epic, from small-complex, all the way through from high level design, to low level design to launch with proper code review and pull requests.
 You’re capable of owning high level design and low level design for most tasks, and understand the tradeoffs in creating good software, e.g. performance vs scale vs latency vs velocity and more.
 You hold a depth of knowledge in systems that enable you to debug them effectively without issues. In addition to writing consistently high-quality code, you're aware of industry best practices and trends.
 You are productive with high capacity and you take the initiative to fix issues before being assigned them.
-### **Typical Experience**
+
+### Typical Experience
 Engineers and managers typically acquire the skills, knowledge, and experience necessary to meet the expectations of this level with a relevant Bachelor’s degree and 7+ years of relevant industry experience.
-### **Responsibility & Growth**
+
+### Responsibility & Growth
 
 |**Responsibility**|**Growth Behaviors**|
 | :-: | :-: |
@@ -184,11 +164,11 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 |Leadership & Collaboration - You and the company|<p>- You work effectively with non-tech members of the organization. </p><p>- Collaborates effectively with peers in product management, design/UX, and data</p><p>- Builds relationships outside their direct team, including with business stakeholders</p>|
 |Business / Domain Knowledge|<p>- You have excellent knowledge of your business domain / mission.</p><p>- You have a reasonable understanding of all the domains and missions.</p><p>- You understand other domains and how they fit in the bug picture</p>|
 |Culture|<p>- You gain responsibility and trust and you influence others in the team to also do so.</p><p>- Builds strong, collaborative relationships in and out of the team</p>|
-# **L5 EM - Software Engineer**
+# L5 EM - Software Engineer
 
 **Usually refers to senior team leader**
 
-### **Scope & Impact**
+### Scope & Impact
 As a Senior Team Lead:
 
 - You are allocated with a chapter (technology proficiency) and you lead a chapter Guild
@@ -196,9 +176,9 @@ As a Senior Team Lead:
 - You are allocated with a mission
 
 You have demonstrated ability to successfully lead people, teams or projects multiple times in different contexts. People love working with you and evaluate your leadership and technical skills.
-### **Typical Experience**
+### Typical Experience
 Engineers and managers typically acquire the skills, knowledge, and experience necessary to meet the expectations of this level with a relevant Bachelor’s degree and 9+ years of relevant industry experience.
-### **Responsibility & Growth**
+### Responsibility & Growth
 
 |**Responsibility**|**Growth Behaviors**|
 | :-: | :-: |
@@ -210,17 +190,20 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 |Business / Domain Knowledge|<p>- Has deep expertise across multiple domains and missions</p><p>- Familiar with each mission road-maps, concerns and targets</p>|
 |Culture|<p>- You focus on Value and impact you produce.</p><p>- Makes pragmatic design decisions; identifies risks, trade-offs, and alternative solutions to be considered</p><p>- Mindful of including others so that they can jointly participate in decision-making</p><p>- Sets an example for giving effective feedback</p>|
 -----
-# **L6 IC - Software Engineer**
+# L6 IC - Software Engineer
 **Usually referred to Architect levels**
-### **Scope & Impact**
+
+### Scope & Impact
 As Software Engineering Architect L5, you have strategic impact over the department.
 As an Architect, you have a significant strategic vision and can take a high-level business plan for growth and translate it into a strategic technology road-map.
 You’re super technically savvy and your primary job is focusing on long-term architectural and technology needs to grow the business.
 You understand the CTO technical vision and missions and reflect them on the features and the teams.
 You make sure that all the teams are aligned with the system architecture.
-### **Typical Experience**
+
+### Typical Experience
 Engineers and managers typically acquire the skills, knowledge, and experience necessary to meet the expectations of this level with a relevant Bachelor’s degree and 9+ years of relevant industry experience.
-### **Responsibility & Growth**
+
+### Responsibility & Growth
 
 |**Responsibility**|**Growth Behaviors**|
 | :-: | :-: |
@@ -231,7 +214,8 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 |You and the company|<p>- Partners effectively with business stakeholders on strategic projects</p><p>- Builds network outside organization, can identify and sell talent on working at organization</p>|
 |Business / Domain Knowledge|<p>- Has deep expertise across multiple domains and missions</p><p>- Familiar with each mission road-maps, concerns and targets</p>|
 |Culture|<p>- You focus on Value and impact you produce.</p><p>- You focus on growing the teams around you</p><p>- great communicator</p><p>- Makes pragmatic design decisions; identifies risks, trade-offs, and alternative solutions to be considered</p><p>- Mindful of including others so that they can jointly participate in decision-making</p><p>- Sets an example for giving effective feedback</p>|
-# **L6 EM - Software Engineer**
+
+# L6 EM - Software Engineer
 
 **Usually referred to R&D manager**
 
@@ -245,7 +229,8 @@ You're not generally expected to write code on a day-to-day basis, but in some c
 You should, however, have a strong technical background and spend some of their time researching new technologies and staying abreast of trends in the tech industry. You will be expected to help debug and triage critical systems and should understand the systems you oversee well enough to perform code reviews and help research problems as needed.
 
 You should contribute to the architecture and design efforts of the teams and relevant domains primarily by serving as the technically-savvy voice that asks business and product questions of the engineers on their teams, ensuring that the code we are writing matches the product and business needs and can scale appropriately as those needs grow.
-### **Responsibilities**
+
+### Responsibilities
 Like a team leader, you’re responsible for leading a dedicated team.
 In addition, you will be a mentor for junior team leaders, making sure they become a successful and capable leaders. You will inspire junior leaders and assist them in becoming high performance, high-velocity, high functioning, motivated teams, measuring and iterating on processes as we grow and evolve as a business.
 
@@ -262,12 +247,14 @@ As mentor, it is expected of you to sponsorship your junior leader and make sure
 - Code quality produced by the team is high.
 - Proper handling of escalation and domain issues.
 - Making the right decisions.
-### **You and Your Team**
+
+### You and Your Team
 You’re an inspiring leader and set the example for cross-functional collaboration across teams and with other areas of the company.
 You’re a very strong communicator and can simplify technical concepts for non-technical partners.
 Likewise, you can also take business direction and explain it to the development team in a way that inspires and guides them. You monitor the team leaders, making sure they meet the culture, missions and responsibilities.
 You contribute to a positive public presence for organization engineering and can "promote" the company to potential candidates.
-### **Example skills and behaviors**
+
+### Example skills and behaviors
 - You lead your team.
 - You mentor your sponsorship junior leaders.
 - You participate in the backlog preparations and planning for all sponsorship teams.
