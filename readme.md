@@ -15,14 +15,15 @@ As leaders, we want each of the engineers to grow and when one does, it is a cua
 We are looking into 4 different areas of growth:
 
 ### Exection
-how well is the engineer executes his tasks. As the engineer grows, it is expected that the execution level will increase. Handle issues faster, move with ease, monitor his work, etc. 
+How well is the engineer executes his tasks. As the engineer grows, it is expected that the execution level will increase. Handle issues faster, move with ease, monitor his work, etc. 
 
 ### Technology Proficiency
-how does the engineer progress with technology skills and knowledge.
+How does the engineer progress with technology skills and knowledge.
 
 ### Impact of Team, Impact on R&D, Impact on Organization
 
-What impact does the engineer has on the team, R&D and the organization. As the engineer grows, it is expected to see an increasing impact. Some examples: review PRs, Mentoring, Assisting solving escalation, knowledge sharing etc.
+What impact does the engineer has on the team, R&D and the organization. As the engineer grows, it is expected to see an increasing impact.  
+Some examples: review PRs, Mentoring, Assisting solving escalation, knowledge sharing etc.
 
 ### Culture 
-Does the engineer shares same culture attributes and values with us.
+Does the engineer share same culture attributes and values with us.
