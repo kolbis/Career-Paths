@@ -7,15 +7,16 @@ One of my responsibility as a (CTO) leader is to provide a clear feedback and ex
 Ladders assist in both. 
 We use the ladders during our 360 reviews (you might know it as performance review) and 1 on 1s.
 
-The ladders describes an expected behaviors from the teams, as they grow. They do not list all the different behaviors and they might vary between some roles, yet it provides a guidance.
+The ladders describes an expected behaviors from the teams, as they grow. They do not list all the different behaviors and they might vary between some roles, yet it provides a guidance.  
 
 As leaders, we want each of the engineers to grow and when one does, it is a cause for celerbration :) 
 
 # Growth Factors
 We are looking into 4 different areas of growth:
 
-### Exection
-How well is the engineer executes his tasks. As the engineer grows, it is expected that the execution level will increase. Handle issues faster, move with ease, monitor his work, etc. 
+### Execution
+How well is the engineer executes his tasks.  
+As the engineer grows, it is expected that the execution level will increase. Handle issues faster, move with ease, monitor his work, etc. 
 
 ### Technology Proficiency
 How does the engineer progress with technology skills and knowledge.
