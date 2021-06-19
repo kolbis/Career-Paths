@@ -3,30 +3,38 @@ This page defines the professional career paths (ladder) for software engineers.
 
 
 # **Overview**
-**Levels**: Every software engineer employee has a level, which describes the scope, complexity, and impact of their role and factors into compensation. When a new developer joins theLotter, we evaluate his abilities and try to classify him based on the interview process and his experience. We understand this may not reflect the actual capabilities, so on his first months we will evaluate him and adapt as needed.
+### **Levels**: 
+Every software engineer employee has a level, which describes the scope, complexity, and impact of their role and factors into compensation. When a new developer joins theLotter, we evaluate his abilities and try to classify him based on the interview process and his experience. We understand this may not reflect the actual capabilities, so on his first months we will evaluate him and adapt as needed.
 
 Each level builds on the criteria from the preceding level. So for example, an L4 must also meet all the criteria for an L3.
 
 The levels described here are a **subjective** (internal to theLotter) classification to theLotter and intentionally do not reflect market concepts such as Junior developer, mid developer or Senior developer.
 
-**Years of experience:**  has a contribution to the classification, but do not guaranty a correlation. You may be very experience developer, with 7 years experience which will be L3, BUT you can also be 3 years developer which is L3. 
+### **Years of experience:**  
+has a contribution to the classification, but do not guaranty a correlation. You may be very experience developer, with 7 years experience which will be L3, BUT you can also be 3 years developer which is L3. 
 
 We do not have strict minimum requirements for years of experience at any given level. We evaluate scope of responsibility and impact, and we never want to fail to recognize high performance due to a test like years of experience.
 
 The rules that guide us are impact and value. 
 *"are you able to perform the level responsibilities"?!?*
 
-**Two Tracks**: Engineers and Engineering Managers are on two distinct career tracks. This ensures that an engineer can grow in their career and take on more responsibility without having to become a manager. While there are some overlapping responsibilities between the roles, the skills and motivations necessary to be effective vary. We want engineers to consider becoming managers if they are interested in the core responsibilities of people management; if they aren’t, we provide a path to take on larger scope and demonstrate leadership as an individual contributor. This helps ensure we don’t create an incentive to change roles for the wrong reasons. Engineers and managers at the same level will have comparable scope and impact on the business.
+### **Two Tracks**: 
+Engineers and Engineering Managers are on two distinct career tracks. This ensures that an engineer can grow in their career and take on more responsibility without having to become a manager. While there are some overlapping responsibilities between the roles, the skills and motivations necessary to be effective vary. We want engineers to consider becoming managers if they are interested in the core responsibilities of people management; if they aren’t, we provide a path to take on larger scope and demonstrate leadership as an individual contributor. This helps ensure we don’t create an incentive to change roles for the wrong reasons. Engineers and managers at the same level will have comparable scope and impact on the business.
 
 **Becoming a manager is not a promotion**: As discussed in more detail below, we define a promotion as moving up a level. When an engineer first becomes a manager, they remain in the same level and move laterally to the engineering management track. Again, we don’t want to incentivize becoming a manager solely for career advancement.
+
+```
 
 IC is in-depended contributor
 
 EM is engineering manager
 
+```
+
 Engineers and Engineering Managers can exist at the same Square Level with different job criteria. Becoming an EM is not a promotion—it's a different role. Some criteria are shared between ICs and EMs at the same level.
 
-Software Engineers begin at L1. Engineering Managers begin at L4.
+Software Engineers begin at L1.  
+Engineering Managers begin at L4.
 
 ![image](https://user-images.githubusercontent.com/13493085/122630966-57381400-d0d0-11eb-85cd-4364f6b0db83.png)
 
