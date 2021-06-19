@@ -14,7 +14,7 @@ EM begin at L4.
 # L3 IC - Product Owner
 
 ### Scope & Impact
-As a L3 IC Product Owner, you are able to successfully lead a single area of responsibility.
+As a L3 IC Product Owner, you are able to successfully lead a single area of responsibility (e.g. mission).
 
 - You are given with problems to solve
 - You Maintain, Prioritize, Groom, Build "mission backlog" 
