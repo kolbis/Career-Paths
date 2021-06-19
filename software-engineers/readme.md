@@ -1,14 +1,14 @@
 # **Software Engineers**
-This page defines the professional career paths (ladder) for software engineers. It represents the way I have decided to build it per our organization, taking into considurations the size of the engineering team, the scale, the skills etc.
+This page defines the professional career paths (ladder) for software engineers. It represents the way I have decided to build it per our organization, taking into considerations the size of the engineering team, the scale, the skills etc.
 
 
 # **Overview**
 ### **Levels**: 
-Every software engineer employee has a level, which describes the scope, complexity, and impact of their role and factors into compensation. When a new developer joins theLotter, we evaluate his abilities and try to classify him based on the interview process and his experience. We understand this may not reflect the actual capabilities, so on his first months we will evaluate him and adapt as needed.
+Every software engineer employee has a level, which describes the scope, complexity, and impact of their role and factors into compensation. When a new developer joins, we evaluate his abilities and try to classify him based on the interview process and his experience. We understand this may not reflect the actual capabilities, so on his first months we will evaluate him and adapt as needed.
 
 Each level builds on the criteria from the preceding level. So for example, an L4 must also meet all the criteria for an L3.
 
-The levels described here are a **subjective** (internal to theLotter) classification to theLotter and intentionally do not reflect market concepts such as Junior developer, mid developer or Senior developer.
+The levels described here are a **subjective** and intentionally do not reflect market concepts such as Junior developer, mid developer or Senior developer.
 
 ### **Years of experience:**  
 has a contribution to the classification, but do not guaranty a correlation. You may be very experience developer, with 7 years experience which will be L3, BUT you can also be 3 years developer which is L3. 
@@ -25,7 +25,7 @@ Engineers and Engineering Managers are on two distinct career tracks. This ensur
 
 ### **Growth Factors**:
 We are looking into 4 different areas of growth:
-- Exection - how well is the engineer executes his tasks. As the engineer grows, it is expected that the execution level will increase. Handle issues faster, move with ease, monitor his work, etc. 
+- Execution - how well is the engineer executes his tasks. As the engineer grows, it is expected that the execution level will increase. Handle issues faster, move with ease, monitor his work, etc. 
 - Technology Proficiency - how does the engineer progress with technology skills and knowledge.
 - Impact of Team, Impact on R&D, Impact on Organization - what impact does the engineer has on the team, R&D and the organization. As the engineer grows, it is expected to see an increasing impact. Some examples: review PRs, Mentoring, Assisting solving escalation, knowledge sharing etc.
 - Culture - Does the engineer shares same culture attributes and values with us.
@@ -48,7 +48,7 @@ Engineering Managers begin at L4.
 -----
 # **L1 IC - Software Engineer**
 
-**Usually refered as Junior Engineer**
+**Usually referred as Junior Engineer**
 
 ### **Scope & Impact**
 As a L1 developer, you’re at the start of your career. You have a reasonable understanding of core engineering concepts and are focused on expanding that understanding and growing as an engineer. You have a basic understanding of the team’s tools and processes and a broad introduction to engineering best practices and productivity skills. You have an appreciation and understanding of software engineering techniques like testing, source control and agile planning and are focused on learning more about these domains.
@@ -58,7 +58,7 @@ Engineers typically acquire the skills, knowledge, and experience necessary to m
 
 |**Responsibility**|**Growth Behaviors**|
 | :-: | :-: |
-|Execution|<p>- You are able to handle bugs</p><p>- Number of bugs you introduce are low and you are able to handle them when they appear</p><p>- You are able to handle 0.5-1 point stories with assiatance</p><p>- You ask good questions</p><p>- You produce small & good quality PRs</p><p>- The number of iteration on PR is low</p><p>- You test your code </p><p>- You test for business requirements and e2e</p><p>- You update on your progress and when you need help </p>|
+|Execution|<p>- You are able to handle bugs</p><p>- Number of bugs you introduce are low and you are able to handle them when they appear</p><p>- You are able to handle 0.5-1 point stories with assistance</p><p>- You ask good questions</p><p>- You produce small & good quality PRs</p><p>- The number of iteration on PR is low</p><p>- You test your code </p><p>- You test for business requirements and e2e</p><p>- You update on your progress and when you need help </p>|
 |Technical Proficiency|<p>- You have good knowledge on the IDE </p><p>- You understand and using Design patterns</p><p>- You write good unit tests</p><p>- You know how to debug</p><p>- You update Jira properly</p><p>- You enriched yourself in the relevant technology stack</p>|
 |Leadership & Collaboration - You and your Team|<p>- You properly communicate with your leaders issues</p><p>- You participate in team events & knowledge sharing</p><p>- Finds the right balance between persevering on a problem and asking for help</p><p>- You understand how your work fits into the larger picture for your team, and can work with product and other engineers to help identify conflicting requirements.</p>|
 |Leadership & Collaboration - You and the R&D|N/A|
@@ -68,7 +68,7 @@ Engineers typically acquire the skills, knowledge, and experience necessary to m
 -----
 # **L2 IC - Software Engineer**
 
-*Usually refered as mid level engineer*
+**Usually referred as mid level engineer**
 
 ### **Scope & Impact**
 As a L2 developer you are contributor! you understand of core software concepts such as code that performs at scale, resiliency, caching, databases, SOLID, consideration for web development and more.
@@ -91,7 +91,7 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 -----
 # **L3 IC - Software Engineer** 
 
-**Usually refers to expirienced engineer**
+**Usually referred to experienced engineer**
 
 ### **Scope & Impact**
 As a L3 developer, you are a solid contributor! you display a solid understanding of core software concepts such as code that performs at scale, resiliency, caching, databases, SOLID, consideration for web development and more. You are able to handle different technologies and you are productive.
@@ -113,7 +113,7 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 -----
 # **L4 IC - Software Engineer** 
 
-**Usually refers to senior engineer**
+**Usually referred to senior engineer**
 
 ### **Scope & Impact**
 As a L4 developer strong independent contributor! you display a solid understanding of core software concepts such as code that performs at scale, resiliency, caching, databases, SOLID, consideration for web development and more. You are able to handle different technologies and you are productive.
@@ -134,7 +134,7 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 |Culture|<p>- Team Player</p><p>- You focus on Value and impact you produce.</p><p>- Taking responsibility of things you and the team build</p><p>- Mindful and empathetic in their communication – strives to understand context and assumes best intent from others</p><p>- Handles change with maturity, assumes best intent in others</p><p>- Displays a strong sense of ownership within the domains</p><p>- Communicates the status of their work proactively; stakeholders aren’t left guessing what’s happening</p>|
 # **L4 EM - Software Engineer** 
 
-**Usually refers to team leader**
+**Usually referred to team leader**
 
 ### **Scope & Impact**
 As a Team Lead:
@@ -157,13 +157,13 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 |Technical Proficiency|<p>- Is accountable for the technical output of the chapter.</p><p>- Is accountable for the technical output of the mission.</p><p>- You build yourself and your chapter knowledge constantly with technologies, tools and practices</p><p>- Guides others on the team through change</p>|
 |Leadership & Collaboration - You and your Team|<p>- Communicates strategy, rationale, and progress within the team and to external stakeholders.</p><p>- Resolves interpersonal and technical conflict within the team.</p><p>- Coaches, provides timely, actionable feedback, and invests time in career development of team members; e.g., via 1:1s and aligning employee growth with opportunity.</p><p>- Responsible for performance reviews, performance management, promotions, career planning, managing low performers, promotions, and terminations.</p><p>- You identify personal issues and work to resolve them</p><p>- You are responsible for the direct reports retention</p><p>- Facilitates healthy discussions across the Engineering team</p><p>- Helps team understand the broader context behind change so that trust is fostered across the company</p>|
 |Leadership & Collaboration - You and the R&D|<p>- You are a great leader</p><p>- You are able to perform 1 on 1</p><p>- You are able to recruit and dismiss employees</p><p>- You are able to run performance reviews and you provide meaningful feedback</p>|
-|Leadership & Collaboration - You and the company|<p>- Collaborates with stakeholders including product managers, and others in development and execution of the team’s roadmap.</p><p>- Works with leaders across Design/UX, Data, and Product to ensure product being built satisfies business objectives</p>|
+|Leadership & Collaboration - You and the company|<p>- Collaborates with stakeholders including product managers, and others in development and execution of the team’s road-map.</p><p>- Works with leaders across Design/UX, Data, and Product to ensure product being built satisfies business objectives</p>|
 |Business / Domain Knowledge|- Very strong domain / mission / application knowledge|
 |Culture|<p>- You make sure all team members are aligned with the culture and values. You encourage the team to gain responsibility and trust.</p><p>- You derive your team to be communicative and focus on value</p><p>- Coaches towards mindful communication</p><p>- Your team is accountable </p><p>- Everyone loves working with you</p><p>- Lead company culture.</p>|
 -----
 # **L5 IC - Software Engineer** 
 
-**Usually refers to tech leader**
+**Usually referred to tech leader**
 
 ### **Scope & Impact**
 You’re at a level where you’re seen as extremely reliable and a master of at your domains.
@@ -181,7 +181,7 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 |Technical Proficiency|<p>- You are very technical and have high technology proficiency in frontend, backend and devops</p><p>- You are able to evaluate new technologies and you feel comfortable learning new tools, new languages and new practices</p><p>- You are a great delegate / proxy person. You know who know what and you are able to proxy issues or questions to the proper person</p><p>- You constantly enriched yourself in the relevant technology stack</p>|
 |Leadership & Collaboration - You and your Team|<p>- You perform PRs to other team members and other members of the chapter and across missions</p><p>- Assist in the team HLD reviews</p><p>- You are able to lead a squad (1-4 engineers) the mission</p>|
 |Leadership & Collaboration - You and the R&D|<p>- You have an increased impact on the team and on the department</p><p>- You impact other teams</p><p>- Mentors other engineers across the team</p><p>- Influences senior leaders on engineering strategy</p><p>- Ensures technical designs are properly evaluated for important projects and advises teams to improve execution.</p><p>- Uses negotiation and patience to collaborate with other senior leaders, ensuring progress and setting the example for others.</p>|
-|Leadership & Collaboration - You and the company|<p>- You work effectively with non-tech members of the TheLotter. </p><p>- Collaborates effectively with peers in product management, design/UX, and data</p><p>- Builds relationships outside their direct team, including with business stakeholders</p>|
+|Leadership & Collaboration - You and the company|<p>- You work effectively with non-tech members of the organization. </p><p>- Collaborates effectively with peers in product management, design/UX, and data</p><p>- Builds relationships outside their direct team, including with business stakeholders</p>|
 |Business / Domain Knowledge|<p>- You have excellent knowledge of your business domain / mission.</p><p>- You have a reasonable understanding of all the domains and missions.</p><p>- You understand other domains and how they fit in the bug picture</p>|
 |Culture|<p>- You gain responsibility and trust and you influence others in the team to also do so.</p><p>- Builds strong, collaborative relationships in and out of the team</p>|
 # **L5 EM - Software Engineer**
@@ -207,14 +207,14 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 |You and your Team|- Strikes the right balance between finding opportunities for the team to learn/improve, and shipping projects on time|
 |You and the R&D|<p>- In addition to focusing your team’s efforts, you’re capable of identifying head count needs, as well as planning and recruiting as needed.</p><p>- You're comfortable managing team members whose skills may differ from your own. You communicate expectations clearly to all team members - soliciting and delivering individual feedback often.</p><p>- Share knowledge between chapters and guilds</p>|
 |You and the company|- Contribute to companies activities|
-|Business / Domain Knowledge|<p>- Has deep expertise across multiple domains and missions</p><p>- Familiar with each mission roadmaps, concerns and targets</p>|
+|Business / Domain Knowledge|<p>- Has deep expertise across multiple domains and missions</p><p>- Familiar with each mission road-maps, concerns and targets</p>|
 |Culture|<p>- You focus on Value and impact you produce.</p><p>- Makes pragmatic design decisions; identifies risks, trade-offs, and alternative solutions to be considered</p><p>- Mindful of including others so that they can jointly participate in decision-making</p><p>- Sets an example for giving effective feedback</p>|
 -----
 # **L6 IC - Software Engineer**
-**Usually refers to Architect levels**
+**Usually referred to Architect levels**
 ### **Scope & Impact**
 As Software Engineering Architect L5, you have strategic impact over the department.
-As an Architect, you have a significant strategic vision and can take a high-level business plan for growth and translate it into a strategic technology roadmap.
+As an Architect, you have a significant strategic vision and can take a high-level business plan for growth and translate it into a strategic technology road-map.
 You’re super technically savvy and your primary job is focusing on long-term architectural and technology needs to grow the business.
 You understand the CTO technical vision and missions and reflect them on the features and the teams.
 You make sure that all the teams are aligned with the system architecture.
@@ -224,16 +224,16 @@ Engineers and managers typically acquire the skills, knowledge, and experience n
 
 |**Responsibility**|**Growth Behaviors**|
 | :-: | :-: |
-|Execution|<p>- Building an autonomous team</p><p>- You create architecture that shapes large parts of our business. </p><p>- Sets architectural direction for the missions and helps evolve systems toward it. </p><p>- Has a track record of influencing and delivering projects with organizational impact and priority.</p><p>- You understand the trade-offs between different solutions and you make the best solution which fit the concerns. Sometimes, quick and dirty, other times highly scalable solutions.</p><p>- You see the "big picture" and properly communicate it to peers and downstream development teams.</p><p>- You generate epic and milestone based architecture involving different domains.</p><p>- Leads the overall architecture aspects that have strategic impact at TheLotter.</p><p>- Architect feature and epics and milestones.</p><p>- Introduces improvements that help the entire teams become more productive and ship higher quality work</p><p>- You understand the company road maps and milestones and contribute to it.</p><p>- Breaks down complex projects into epics that can be effectively built and maintained by missions and can be estimated</p><p>- Based on team size, you are expected to contribute to the team burn-down. If properly managed, as an architect you should be able to achieve at least 30% hands-on.</p>|
+|Execution|<p>- Building an autonomous team</p><p>- You create architecture that shapes large parts of our business. </p><p>- Sets architectural direction for the missions and helps evolve systems toward it. </p><p>- Has a track record of influencing and delivering projects with organizational impact and priority.</p><p>- You understand the trade-offs between different solutions and you make the best solution which fit the concerns. Sometimes, quick and dirty, other times highly scalable solutions.</p><p>- You see the "big picture" and properly communicate it to peers and downstream development teams.</p><p>- You generate epic and milestone based architecture involving different domains.</p><p>- Leads the overall architecture aspects that have strategic impact at organization.</p><p>- Architect feature and epics and milestones.</p><p>- Introduces improvements that help the entire teams become more productive and ship higher quality work</p><p>- You understand the company road maps and milestones and contribute to it.</p><p>- Breaks down complex projects into epics that can be effectively built and maintained by missions and can be estimated</p><p>- Based on team size, you are expected to contribute to the team burn-down. If properly managed, as an architect you should be able to achieve at least 30% hands-on.</p>|
 |Technical Proficiency|<p>- You have a track record of anticipating technical problems during the development of major products and designing solutions to overcome them.</p><p>- You’re deeply knowledgeable in major parts of our technology stack. You have a sustained track record of creating major improvements in large business-critical systems around stability, performance, and scalability.</p><p>- You know microservices and microfrontend</p><p>- You have great knowledge in frontend, backend, databases, devops and tools.</p>|
 |You and your Team|- You are able to lead a 1-2 squads if needed|
 |You and the R&D|<p>- The impact of your work is felt across the teams in the quality of the engineering that we produce, the ways we write code, the architecture generated and the underlying design of systems.</p><p>- You have excellent abilities to influence without requiring reporting authority to do so. You effectively facilitate cross-team work and are influential far beyond your individual group.</p><p>- You constantly sit with the team leaders making sure that the overall vision and missions are met.</p><p>- You work closely with the product team, team leaders and CTO on building the development backlog and translating business requirements into development tasks.</p><p>- You’re sought-after for technical guidance across the teams.</p><p>- Conduct R&D meetups.</p><p>- Guides the development of common tools and libraries</p><p>- Mentors other senior engineers or managers on strategy, collaboration, influence, execution, and other aspects of leadership</p>|
-|You and the company|<p>- Partners effectively with business stakeholders on strategic projects</p><p>- Builds network outside theLotter, can identify and sell talent on working at theLotter</p>|
-|Business / Domain Knowledge|<p>- Has deep expertise across multiple domains and missions</p><p>- Familiar with each mission roadmaps, concerns and targets</p>|
+|You and the company|<p>- Partners effectively with business stakeholders on strategic projects</p><p>- Builds network outside organization, can identify and sell talent on working at organization</p>|
+|Business / Domain Knowledge|<p>- Has deep expertise across multiple domains and missions</p><p>- Familiar with each mission road-maps, concerns and targets</p>|
 |Culture|<p>- You focus on Value and impact you produce.</p><p>- You focus on growing the teams around you</p><p>- great communicator</p><p>- Makes pragmatic design decisions; identifies risks, trade-offs, and alternative solutions to be considered</p><p>- Mindful of including others so that they can jointly participate in decision-making</p><p>- Sets an example for giving effective feedback</p>|
 # **L6 EM - Software Engineer**
 
-**Usually refers to R&D manager**
+**Usually referred to R&D manager**
 
 As an Engineering Manager, you have proven yourself as a team leader.
 You are now a mature leader which understand the way the company values and the department culture;
@@ -266,7 +266,7 @@ As mentor, it is expected of you to sponsorship your junior leader and make sure
 You’re an inspiring leader and set the example for cross-functional collaboration across teams and with other areas of the company.
 You’re a very strong communicator and can simplify technical concepts for non-technical partners.
 Likewise, you can also take business direction and explain it to the development team in a way that inspires and guides them. You monitor the team leaders, making sure they meet the culture, missions and responsibilities.
-You contribute to a positive public presence for TheLotter Engineering and can sell the company to potential candidates.
+You contribute to a positive public presence for organization engineering and can "promote" the company to potential candidates.
 ### **Example skills and behaviors**
 - You lead your team.
 - You mentor your sponsorship junior leaders.
