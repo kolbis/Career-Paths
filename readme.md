@@ -3,8 +3,8 @@
 This repo is trying to assist R&D organizations with building a career path for their software, product, QA engineers (I refer to all as engineers :). 
 
 As organizations grow, it is expected to provide the engineers with:
-- A clear feedback and expectation to the teams. 
-- A transparent career path and assist the teams to grow.
+- A clear and continues feedbacks and expectations. 
+- A transparent career path.
 
 Ladders assist in both. 
 We use the ladders during our 360 reviews (you might know it as performance review) and 1 on 1s.
