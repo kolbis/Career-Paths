@@ -2,7 +2,9 @@
 
 This repo is trying to assist R&D organizations with building a career path for their software, product, QA engineers (I refer to all as engineers :). 
 
-One of my responsibility as a (CTO) leader is to provide a clear feedback and expectation to the teams. Another responsibility is to provide a transparent career path and assist the teams to grow.
+As organizations grow, it is expected to provide the engineers with:
+- A clear feedback and expectation to the teams. 
+- A transparent career path and assist the teams to grow.
 
 Ladders assist in both. 
 We use the ladders during our 360 reviews (you might know it as performance review) and 1 on 1s.
@@ -59,7 +61,7 @@ Any organization may define its own levels, ranging from L0 to L9 (if it make se
 
 Levels has only some correlation to the market terminologies. Usually you will find salary tables and openings, based on Junior, Mid or Senior classifications. 
 
-`Whom is a senior engineer? What are the requirements of becoming one?`
+`What classify one to become a senior engineer?`
 
 One common way to classify a developer is based on "years of experience". If an an engineer has 8+ years of experience, he would probably be a senior. right ?!?
 
