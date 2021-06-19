@@ -23,6 +23,13 @@ Engineers and Engineering Managers are on two distinct career tracks. This ensur
 
 **Becoming a manager is not a promotion**: As discussed in more detail below, we define a promotion as moving up a level. When an engineer first becomes a manager, they remain in the same level and move laterally to the engineering management track. Again, we don’t want to incentivize becoming a manager solely for career advancement.
 
+### **Growth Factors**:
+We are looking into 4 different areas of growth:
+- Exection - how well is the engineer executes his tasks. As the engineer grows, it is expected that the execution level will increase. Handle issues faster, move with ease, monitor his work, etc. 
+- Technology Proficiency - how does the engineer progress with technology skills and knowledge.
+- Impact of Team, Impact on R&D, Impact on Organization - what impact does the engineer has on the team, R&D and the organization. As the engineer grows, it is expected to see an increasing impact. Some examples: review PRs, Mentoring, Assisting solving escalation, knowledge sharing etc.
+- Culture - Does the engineer shares same culture attributes and values with us.
+
 ```
 
 IC is in-depended contributor
