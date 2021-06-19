@@ -43,7 +43,7 @@ Engineers and Engineering Managers can exist at the same Square Level with diffe
 Software Engineers begin at L1.  
 Engineering Managers begin at L4.
 
-![image](https://user-images.githubusercontent.com/13493085/122630966-57381400-d0d0-11eb-85cd-4364f6b0db83.png)
+![image](https://user-images.githubusercontent.com/13493085/122646808-c7bf4f00-d129-11eb-9357-3ef529f0968a.png)
 
 -----
 # **L1 IC - Software Engineer**
