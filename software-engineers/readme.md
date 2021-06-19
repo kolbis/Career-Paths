@@ -1,4 +1,5 @@
 # Software Engineers
+
 This page defines the professional career paths (ladder) for software engineers. It represents the way I have decided to build it per our organization, taking into considerations the size of the engineering team, the scale, the skills etc.
  
 Every software engineer employee has a level, which describes the scope, complexity, and impact of their role and factors into compensation. When a new developer joins, we evaluate his abilities and try to classify him based on the interview process and his experience. We understand this may not reflect the actual capabilities, so on his first months we will evaluate him and adapt as needed.
@@ -8,8 +9,8 @@ IC is in-depended contributor
 EM is engineering manager
 ```
 
-Software Engineers begin at L1.  
-Engineering Managers begin at L4.
+IC begin at L1.  
+EM begin at L4.
 
 ![image](https://user-images.githubusercontent.com/13493085/122646808-c7bf4f00-d129-11eb-9357-3ef529f0968a.png)
 
